@@ -1,0 +1,21 @@
+{
+  "export_timestamp": "2026-02-12T14:34:58.899221",
+  "source_data_dir": "/mnt/user-data/outputs/supply-chain-analytics/warehouse/../data",
+  "exports": {
+    "sales": "tableau_extracts/tableau_sales_extract.csv",
+    "inventory": "tableau_extracts/tableau_inventory_extract.csv",
+    "supplier": "tableau_extracts/tableau_supplier_extract.csv",
+    "timeseries": "tableau_extracts/tableau_timeseries_extract.csv"
+  },
+  "tableau_usage": {
+    "sales_extract": "Connect as data source for sales dashboards. Grain: line item level.",
+    "inventory_extract": "Connect for inventory health dashboards. Grain: product-warehouse level.",
+    "supplier_extract": "Connect for supplier scorecard. Grain: supplier level.",
+    "timeseries_extract": "Connect for trend analysis. Grain: daily by warehouse/category."
+  },
+  "recommended_relationships": [
+    "Link sales and inventory on [sku]",
+    "Link supplier to inventory via product-supplier mapping",
+    "Use timeseries for trend lines and forecasting"
+  ]
+}

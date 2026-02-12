@@ -1,0 +1,33 @@
+# Supply Chain Analytics - Requirements
+# Author: Krishna Somisetty
+
+# Core Data Processing
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Database
+psycopg2-binary>=2.9.9
+sqlalchemy>=2.0.0
+
+# Analytics & Statistics
+scipy>=1.11.0
+
+# Visualization & Dashboard
+streamlit>=1.28.0
+plotly>=5.18.0
+
+# Optimization
+pulp>=2.7.0
+
+# Testing
+pytest>=7.4.0
+pytest-cov>=4.1.0
+
+# Development
+black>=23.0.0
+flake8>=6.1.0
+mypy>=1.6.0
+
+# Jupyter (optional for notebooks)
+jupyter>=1.0.0
+ipykernel>=6.25.0
