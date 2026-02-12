@@ -1,0 +1,2 @@
+stockout_id,warehouse_id,product_id,stockout_start_date,stockout_end_date,demand_during_stockout,lost_sales_amount,root_cause
+1,4,85,2024-09-08,2024-09-13,8,128.08,Transportation delay

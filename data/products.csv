@@ -1,0 +1,201 @@
+product_id,sku,product_name,category_id,unit_cost,unit_price,weight_kg,volume_cubic_m,lead_time_days,safety_stock_days,min_order_quantity,is_perishable,is_active
+1,SKU-00001,Basic Phone Case A,7,11.12,19.72,22.315,0.0444,16,2,1,True,True
+2,SKU-00002,Standard Stapler A,14,22.9,36.49,11.285,0.1398,3,3,25,False,True
+3,SKU-00003,Standard Drawer Lite,11,251.97,434.05,20.197,0.3651,20,2,25,True,True
+4,SKU-00004,Economy Thermometer Lite,9,22.61,41.63,24.632,0.4278,6,5,10,False,True
+5,SKU-00005,Advanced Tape Measure C,7,44.67,77.12,4.361,0.3648,8,5,25,False,True
+6,SKU-00006,Basic Shampoo Pro,6,26.07,38.07,0.899,0.1584,11,2,5,False,True
+7,SKU-00007,Ultra Screwdriver Set Pro,13,14.89,20.85,3.577,0.3727,20,4,50,False,True
+8,SKU-00008,Ultra Oil Filter Lite,13,99.83,136.13,1.273,0.0557,8,7,25,False,True
+9,SKU-00009,Professional Brake Pad,7,29.28,52.04,13.471,0.1341,13,2,10,False,True
+10,SKU-00010,Professional Laptop Plus,7,24.05,45.92,7.531,0.3198,9,3,10,False,True
+11,SKU-00011,Ultra Folder A,11,17.22,32.98,20.808,0.1544,4,3,50,False,True
+12,SKU-00012,Premium Pen Set B,8,18.32,32.28,23.677,0.0834,19,6,25,False,True
+13,SKU-00013,Ultra Cabinet Plus,13,77.02,148.63,11.342,0.1247,5,4,1,False,True
+14,SKU-00014,Standard Vitamins Pro,9,383.14,516.16,0.882,0.1659,19,3,10,False,True
+15,SKU-00015,Standard Binder C,13,27.06,39.78,11.877,0.2041,6,2,25,False,True
+16,SKU-00016,Professional Paper Ream A,6,29.6,46.82,8.549,0.431,10,3,5,False,True
+17,SKU-00017,Standard Battery C,7,47.49,76.47,21.548,0.2756,4,7,50,False,True
+18,SKU-00018,Premium Pot C,12,63.7,123.05,4.199,0.0021,15,4,25,False,True
+19,SKU-00019,Basic Shampoo,15,218.68,396.91,1.618,0.1575,4,6,25,False,True
+20,SKU-00020,Advanced Folder C,7,303.13,520.33,16.913,0.1184,6,6,5,False,True
+21,SKU-00021,Premium Thermometer B,11,70.86,138.48,5.186,0.3584,10,4,25,False,True
+22,SKU-00022,Basic Hammer,6,82.63,133.93,24.962,0.4981,5,6,5,False,True
+23,SKU-00023,Standard Level B,13,14.24,26.82,17.618,0.3062,19,2,50,False,True
+24,SKU-00024,Basic Tablet C,14,92.28,130.01,7.116,0.1061,13,3,10,False,True
+25,SKU-00025,Economy Mouse B,6,25.73,39.46,3.357,0.4899,8,7,25,False,True
+26,SKU-00026,Professional Shampoo A,14,478.02,633.48,9.293,0.2767,16,3,1,False,True
+27,SKU-00027,Advanced Keyboard Lite,11,47.47,87.63,22.115,0.2038,7,3,5,False,True
+28,SKU-00028,Advanced Shelf Max,12,394.63,734.63,21.615,0.4056,11,3,1,False,True
+29,SKU-00029,Premium Notebook Pro,10,467.38,876.05,21.796,0.1122,9,5,10,False,True
+30,SKU-00030,Premium Blender Lite,11,14.99,29.34,2.972,0.4852,8,6,10,True,True
+31,SKU-00031,Ultra Battery Lite,14,12.84,17.73,22.498,0.0958,4,7,25,True,True
+32,SKU-00032,Advanced Binder Pro,11,34.9,60.59,16.618,0.0632,12,6,10,False,True
+33,SKU-00033,Economy Oil Filter Plus,12,9.8,17.39,22.58,0.3081,12,5,50,False,True
+34,SKU-00034,Economy Drill Pro,11,70.6,114.76,11.11,0.1076,18,7,5,False,True
+35,SKU-00035,Economy Stapler Lite,10,480.8,700.65,5.058,0.0132,10,5,50,False,True
+36,SKU-00036,Premium Paper Ream Max,12,19.39,31.92,6.175,0.3284,3,2,25,False,True
+37,SKU-00037,Advanced Folder,13,199.68,278.22,11.67,0.266,20,6,10,False,True
+38,SKU-00038,Professional Thermometer Max,13,18.7,30.2,18.819,0.4201,11,6,25,False,True
+39,SKU-00039,Economy Wiper Blade B,11,10.86,20.91,2.106,0.0763,15,7,5,False,True
+40,SKU-00040,Premium Air Filter Max,9,62.61,117.9,9.798,0.3851,3,6,25,False,True
+41,SKU-00041,Economy Hammer Max,14,28.84,52.58,13.699,0.302,10,5,5,False,True
+42,SKU-00042,Professional Monitor Max,8,77.54,146.42,22.997,0.4904,20,2,25,False,True
+43,SKU-00043,Basic Monitor B,8,8.39,11.2,9.54,0.1066,13,4,25,False,True
+44,SKU-00044,Advanced Air Filter Plus,14,16.76,22.4,23.803,0.1129,5,7,1,False,True
+45,SKU-00045,Standard Cabinet A,7,10.96,18.57,5.527,0.35,14,3,50,False,True
+46,SKU-00046,Basic Phone Case C,10,7.7,13.11,22.71,0.1883,9,2,50,False,True
+47,SKU-00047,Basic Pot B,15,12.54,23.37,19.926,0.2834,4,4,50,False,True
+48,SKU-00048,Economy Headphones Lite,7,268.02,429.76,9.118,0.4459,17,7,5,False,True
+49,SKU-00049,Basic Folder Plus,13,27.99,45.5,20.661,0.2966,13,3,1,False,True
+50,SKU-00050,Professional Pot,6,21.7,35.72,8.193,0.2443,14,4,10,False,True
+51,SKU-00051,Ultra Blender A,12,9.78,16.06,18.978,0.3456,18,5,1,True,True
+52,SKU-00052,Standard Oil Filter Pro,14,70.71,118.2,10.695,0.3732,13,4,25,False,True
+53,SKU-00053,Economy Pan B,14,12.89,25.34,17.285,0.0966,18,4,50,False,True
+54,SKU-00054,Ultra First Aid Kit Plus,9,25.82,40.09,7.626,0.3543,7,4,1,False,True
+55,SKU-00055,Ultra Drill C,6,23.82,40.54,11.788,0.2208,8,2,10,False,True
+56,SKU-00056,Professional Phone Case B,6,35.19,49.48,20.297,0.4746,5,3,1,False,True
+57,SKU-00057,Professional First Aid Kit Pro,10,14.51,27.6,24.752,0.1534,4,6,1,False,True
+58,SKU-00058,Standard Drawer Plus,14,8.93,12.08,0.167,0.2258,18,4,1,False,True
+59,SKU-00059,Basic Drill,15,193.37,340.88,23.348,0.2131,20,3,5,False,True
+60,SKU-00060,Advanced Desk B,10,417.05,670.37,11.771,0.1527,15,4,50,False,True
+61,SKU-00061,Professional Speaker A,10,23.36,30.79,5.8,0.3375,21,6,1,False,True
+62,SKU-00062,Basic Blender A,13,9.38,18.21,4.619,0.2931,18,2,25,False,True
+63,SKU-00063,Economy Screwdriver Set B,13,13.25,19.9,23.635,0.407,20,2,25,True,True
+64,SKU-00064,Economy Screwdriver Set B,6,15.1,26.58,13.611,0.2072,9,6,10,False,True
+65,SKU-00065,Professional Wiper Blade A,10,68.45,109.98,17.486,0.0616,10,7,5,False,True
+66,SKU-00066,Premium Shampoo Max,13,496.9,975.39,16.228,0.0778,12,6,10,False,True
+67,SKU-00067,Professional Notebook Pro,15,40.12,66.43,21.995,0.4321,11,5,10,False,True
+68,SKU-00068,Ultra Blender A,15,50.9,101.76,12.292,0.0751,20,5,10,False,True
+69,SKU-00069,Advanced Binder Max,9,52.52,89.3,5.916,0.388,4,4,25,False,True
+70,SKU-00070,Advanced Brake Pad Max,8,24.81,40.86,1.022,0.2516,21,4,1,False,True
+71,SKU-00071,Professional Tablet,7,157.66,256.77,24.233,0.1699,15,7,1,False,True
+72,SKU-00072,Advanced Binder Max,13,20.67,39.49,0.994,0.0351,12,3,1,False,True
+73,SKU-00073,Premium Tablet,6,219.79,335.63,1.497,0.1799,16,3,5,False,True
+74,SKU-00074,Ultra Shelf C,15,343.8,611.34,12.492,0.292,10,5,10,False,True
+75,SKU-00075,Basic Laptop,7,21.94,35.31,8.705,0.2942,16,7,10,False,True
+76,SKU-00076,Economy Cabinet Max,15,7.67,11.9,7.467,0.3499,3,7,25,False,True
+77,SKU-00077,Ultra Mouse,9,27.57,47.56,8.873,0.3187,11,7,5,False,True
+78,SKU-00078,Basic Keyboard Plus,8,5.83,7.95,7.448,0.374,8,3,5,False,True
+79,SKU-00079,Economy Folder Plus,10,11.42,20.81,8.534,0.0585,5,3,5,False,True
+80,SKU-00080,Basic Oil Filter Lite,14,257.83,357.48,9.278,0.3748,11,6,25,False,True
+81,SKU-00081,Economy Tablet Pro,14,73.37,112.23,15.291,0.3242,17,7,10,False,True
+82,SKU-00082,Premium Chair A,7,12.61,17.25,22.193,0.0687,17,4,50,False,True
+83,SKU-00083,Basic Desk Max,12,25.84,50.58,7.066,0.3455,9,5,25,False,True
+84,SKU-00084,Advanced Tape Measure B,11,14.18,19.04,6.969,0.4841,17,2,5,False,True
+85,SKU-00085,Ultra Monitor A,15,11.09,16.01,20.762,0.2775,21,3,5,False,True
+86,SKU-00086,Standard First Aid Kit A,14,98.88,145.89,4.445,0.3309,3,3,1,False,True
+87,SKU-00087,Advanced Pot Lite,12,206.15,343.91,18.667,0.2386,14,6,50,False,True
+88,SKU-00088,Ultra Pan A,14,27.72,41.89,16.119,0.0165,18,5,25,False,True
+89,SKU-00089,Professional Wiper Blade B,7,13.05,18.12,15.646,0.2931,13,5,50,False,True
+90,SKU-00090,Professional Stapler Max,9,380.71,609.54,22.213,0.2075,17,5,25,False,True
+91,SKU-00091,Economy Battery Lite,13,14.36,19.34,20.811,0.0475,6,7,10,False,True
+92,SKU-00092,Ultra Mouse Lite,12,15.27,29.13,18.054,0.4842,12,4,1,False,True
+93,SKU-00093,Standard Desk,14,37.58,58.52,19.089,0.2875,16,6,50,False,True
+94,SKU-00094,Basic Shampoo A,10,21.45,28.32,6.904,0.3814,13,4,1,False,True
+95,SKU-00095,Standard Lotion Max,7,396.39,722.33,5.457,0.2105,13,3,10,False,True
+96,SKU-00096,Economy Lotion B,15,8.89,11.87,2.131,0.2221,16,5,50,False,True
+97,SKU-00097,Economy Drawer B,15,37.76,61.95,16.712,0.0237,15,6,1,True,True
+98,SKU-00098,Economy Drawer C,6,12.24,20.17,10.823,0.0655,20,7,5,False,True
+99,SKU-00099,Advanced Level B,6,81.94,132.89,2.039,0.1572,16,6,25,False,True
+100,SKU-00100,Professional Drill B,15,97.63,158.36,17.271,0.1816,16,2,5,False,True
+101,SKU-00101,Professional Folder B,9,51.72,79.29,4.287,0.2557,6,6,50,False,True
+102,SKU-00102,Advanced Level Lite,9,25.47,34.94,6.474,0.0876,7,7,1,False,True
+103,SKU-00103,Advanced Pen Set,15,24.0,42.0,24.665,0.1623,13,3,25,True,True
+104,SKU-00104,Professional Hammer Plus,10,13.8,22.4,1.036,0.185,12,2,1,False,True
+105,SKU-00105,Ultra Brake Pad,6,28.86,46.6,20.264,0.3263,13,6,25,False,True
+106,SKU-00106,Premium Wiper Blade B,7,25.93,42.87,4.397,0.1246,17,5,50,False,True
+107,SKU-00107,Standard Tape Measure Lite,11,14.69,26.08,1.404,0.3158,13,2,10,True,True
+108,SKU-00108,Basic Brake Pad Plus,15,89.61,171.27,8.401,0.2918,7,4,10,False,True
+109,SKU-00109,Basic Oil Filter C,14,28.45,44.49,19.812,0.4068,19,2,25,False,True
+110,SKU-00110,Premium Tape Measure Plus,9,185.68,270.83,3.525,0.0395,6,6,50,False,True
+111,SKU-00111,Ultra Keyboard Lite,12,20.45,28.79,4.603,0.3467,8,7,25,True,True
+112,SKU-00112,Economy Pot,13,23.81,34.85,6.055,0.4828,18,3,10,False,True
+113,SKU-00113,Ultra Wiper Blade,14,24.45,38.95,4.135,0.1006,7,4,1,False,True
+114,SKU-00114,Advanced Tape Measure B,10,17.9,24.32,4.092,0.2252,19,3,25,True,True
+115,SKU-00115,Standard Wiper Blade Lite,14,15.37,24.0,9.716,0.0417,10,2,10,False,True
+116,SKU-00116,Advanced Wrench C,8,214.75,393.25,11.781,0.3081,5,2,10,False,True
+117,SKU-00117,Standard Shampoo Max,7,215.24,287.01,10.554,0.3972,17,2,1,False,True
+118,SKU-00118,Professional First Aid Kit A,8,19.38,29.15,0.139,0.1771,21,5,5,False,True
+119,SKU-00119,Premium Folder Lite,14,310.42,523.96,9.822,0.2356,15,4,10,False,True
+120,SKU-00120,Economy Headphones Lite,15,76.0,137.91,8.38,0.0231,20,4,5,False,True
+121,SKU-00121,Basic Paper Ream,13,25.29,33.53,5.12,0.3958,4,4,10,False,True
+122,SKU-00122,Advanced Binder,10,82.73,128.22,19.543,0.433,13,4,1,False,True
+123,SKU-00123,Professional Oil Filter,13,14.67,26.18,9.247,0.3988,11,2,25,True,True
+124,SKU-00124,Ultra Shelf Plus,10,35.6,53.92,15.105,0.2136,17,4,25,True,True
+125,SKU-00125,Advanced Level Max,6,98.6,133.36,15.974,0.1823,8,2,5,False,True
+126,SKU-00126,Basic Wiper Blade A,11,194.4,304.82,14.224,0.3029,17,4,10,False,True
+127,SKU-00127,Premium Lotion C,10,14.95,22.05,2.925,0.3681,18,6,25,False,True
+128,SKU-00128,Premium Mixer Plus,10,10.36,18.5,24.966,0.1009,7,2,25,False,True
+129,SKU-00129,Basic Wiper Blade B,11,29.19,52.45,13.795,0.1459,12,3,5,False,True
+130,SKU-00130,Ultra Pan B,13,24.8,32.7,13.895,0.1851,20,3,50,False,True
+131,SKU-00131,Premium Hammer Max,12,22.97,42.23,20.601,0.0378,13,7,1,False,True
+132,SKU-00132,Basic Folder Lite,15,431.62,616.08,24.16,0.2169,4,2,50,False,True
+133,SKU-00133,Standard Lamp Lite,10,10.64,20.13,6.34,0.3179,20,4,5,False,True
+134,SKU-00134,Ultra Binder B,8,9.22,13.09,15.65,0.4511,13,6,1,False,True
+135,SKU-00135,Premium Speaker A,9,24.28,44.6,10.473,0.3199,18,7,50,False,True
+136,SKU-00136,Economy Notebook Pro,13,22.12,29.89,1.592,0.2204,18,5,5,False,True
+137,SKU-00137,Standard Screwdriver Set Lite,8,26.52,48.6,12.923,0.054,10,5,1,False,True
+138,SKU-00138,Standard Desk B,9,478.15,943.81,22.568,0.4069,21,7,10,False,True
+139,SKU-00139,Standard Pen Set,7,51.6,101.22,12.686,0.4834,9,6,10,True,True
+140,SKU-00140,Economy Pen Set,12,30.57,42.61,6.685,0.1835,15,4,1,False,True
+141,SKU-00141,Ultra Shampoo Pro,14,50.2,81.09,13.791,0.4128,6,3,1,False,True
+142,SKU-00142,Advanced Wrench Lite,12,9.98,16.47,1.228,0.0694,13,5,50,False,True
+143,SKU-00143,Ultra Stapler C,12,72.91,145.34,18.509,0.1503,13,6,50,False,True
+144,SKU-00144,Basic Lotion Plus,7,31.16,61.88,14.634,0.3986,3,6,25,False,True
+145,SKU-00145,Basic Vitamins Pro,14,19.59,34.09,15.531,0.4207,7,7,5,True,True
+146,SKU-00146,Basic Phone Case Pro,12,225.48,402.11,10.318,0.3877,18,7,1,False,True
+147,SKU-00147,Ultra Drawer Lite,11,16.96,33.41,11.546,0.267,20,4,10,False,True
+148,SKU-00148,Standard Pot Plus,10,10.62,19.05,17.287,0.245,18,4,50,False,True
+149,SKU-00149,Advanced Blender Plus,12,370.65,694.18,23.87,0.4025,12,2,10,False,True
+150,SKU-00150,Premium Level,9,23.68,44.51,6.851,0.2814,11,3,1,False,True
+151,SKU-00151,Ultra Pot Pro,9,462.07,617.67,10.391,0.359,6,7,5,True,True
+152,SKU-00152,Ultra Lamp Max,13,27.02,47.43,18.922,0.1443,12,7,1,False,True
+153,SKU-00153,Premium Lotion Pro,8,23.08,36.76,20.956,0.467,4,5,25,False,True
+154,SKU-00154,Basic Drill A,11,327.18,490.51,24.729,0.2721,18,3,50,False,True
+155,SKU-00155,Standard Phone Case Lite,8,283.57,371.44,8.494,0.1482,9,3,50,False,True
+156,SKU-00156,Professional Battery Lite,8,367.7,600.9,23.402,0.0044,15,3,25,False,True
+157,SKU-00157,Economy Hammer A,6,55.17,97.51,11.688,0.0807,19,7,10,False,True
+158,SKU-00158,Basic Drill Lite,13,10.48,14.75,18.719,0.3033,16,7,50,False,True
+159,SKU-00159,Advanced Binder Pro,7,22.01,36.71,13.252,0.1815,21,2,1,False,True
+160,SKU-00160,Ultra Cabinet C,7,441.79,784.71,17.951,0.2449,19,5,1,False,True
+161,SKU-00161,Ultra Air Filter,10,18.97,34.27,9.959,0.4084,9,6,1,True,True
+162,SKU-00162,Economy Headphones A,6,6.73,10.1,4.582,0.0686,16,4,25,False,True
+163,SKU-00163,Professional Brake Pad B,8,21.54,37.86,8.759,0.0901,20,5,50,False,True
+164,SKU-00164,Standard Laptop A,14,16.58,26.48,9.544,0.1156,17,4,5,False,True
+165,SKU-00165,Basic Phone Case A,6,15.48,22.73,1.776,0.2974,17,6,1,False,True
+166,SKU-00166,Premium Oil Filter,6,45.21,63.21,24.838,0.1178,21,4,50,False,True
+167,SKU-00167,Basic Screwdriver Set Pro,14,40.03,58.23,7.582,0.0314,21,7,5,False,True
+168,SKU-00168,Professional Shampoo,14,237.77,362.15,10.466,0.0755,15,3,50,False,True
+169,SKU-00169,Advanced Pan Plus,6,8.61,14.58,24.198,0.2791,7,5,5,False,True
+170,SKU-00170,Economy Speaker,9,7.31,9.77,9.491,0.3029,4,2,5,False,True
+171,SKU-00171,Ultra Shampoo Pro,10,90.86,178.99,0.482,0.4686,6,7,25,False,True
+172,SKU-00172,Basic First Aid Kit Pro,10,46.75,73.23,13.388,0.1803,11,4,50,False,True
+173,SKU-00173,Professional Tablet,11,13.01,19.76,1.238,0.4322,7,2,10,False,True
+174,SKU-00174,Ultra Vitamins Max,12,43.73,74.29,6.219,0.2758,13,4,25,False,True
+175,SKU-00175,Basic Pen Set,8,417.99,754.15,12.259,0.4585,20,7,1,False,True
+176,SKU-00176,Advanced Headphones A,9,15.31,20.63,3.861,0.1101,17,4,1,False,True
+177,SKU-00177,Basic Thermometer,14,5.39,8.56,0.516,0.3614,20,4,1,False,True
+178,SKU-00178,Basic Battery C,9,138.53,198.7,13.209,0.4078,11,5,1,False,True
+179,SKU-00179,Professional Paper Ream Pro,7,10.65,18.72,21.47,0.38,5,5,25,False,True
+180,SKU-00180,Professional Mouse A,11,7.07,11.99,21.463,0.0486,19,2,5,False,True
+181,SKU-00181,Advanced Lotion,10,94.69,182.71,14.131,0.0174,13,2,5,False,True
+182,SKU-00182,Advanced Oil Filter B,12,69.48,123.25,13.56,0.1925,7,7,1,False,True
+183,SKU-00183,Economy Mouse B,15,88.71,163.08,23.876,0.199,13,2,10,False,True
+184,SKU-00184,Professional Pen Set Pro,8,95.88,170.26,16.551,0.0438,12,3,1,True,True
+185,SKU-00185,Standard Brake Pad C,7,12.92,16.84,7.776,0.1806,11,2,5,True,True
+186,SKU-00186,Professional Wiper Blade Max,7,135.85,233.37,19.633,0.432,3,4,25,False,True
+187,SKU-00187,Premium Shampoo Pro,8,9.24,12.91,7.598,0.2471,5,3,25,False,True
+188,SKU-00188,Economy Notebook B,13,96.1,164.88,4.969,0.0544,12,2,25,False,True
+189,SKU-00189,Ultra Brake Pad Lite,15,60.14,83.91,8.085,0.4737,9,5,10,False,True
+190,SKU-00190,Professional Screwdriver Set Plus,9,20.82,31.82,7.079,0.3931,14,2,50,False,True
+191,SKU-00191,Ultra Shelf A,9,16.54,26.58,7.354,0.3467,16,7,25,False,True
+192,SKU-00192,Economy Pot Plus,12,22.88,30.93,24.768,0.2401,15,6,50,False,True
+193,SKU-00193,Advanced Air Filter A,14,13.99,24.0,22.869,0.0556,10,7,10,False,True
+194,SKU-00194,Ultra Keyboard Max,12,13.29,18.26,2.555,0.1118,19,6,50,False,True
+195,SKU-00195,Standard Wiper Blade Lite,14,84.06,118.15,24.943,0.2419,12,5,1,False,True
+196,SKU-00196,Basic Desk Lite,14,61.87,101.35,11.956,0.2196,17,4,1,False,True
+197,SKU-00197,Advanced Phone Case A,8,21.2,41.36,18.538,0.2585,20,3,10,False,True
+198,SKU-00198,Professional Pan Max,12,9.66,15.23,18.461,0.4417,17,6,25,False,True
+199,SKU-00199,Basic Drawer Pro,7,79.26,135.07,20.008,0.2689,14,4,5,False,True
+200,SKU-00200,Economy Pen Set Lite,7,20.28,31.3,21.153,0.3091,12,6,50,True,True

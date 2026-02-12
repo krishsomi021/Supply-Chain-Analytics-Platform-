@@ -1,0 +1,6 @@
+warehouse_code,warehouse_name,city,state,latitude,longitude,warehouse_id,capacity_units,operating_cost_per_unit,is_active
+WH001,East Coast DC,Newark,NJ,40.7357,-74.1724,1,65795,2.89,True
+WH002,Midwest Hub,Chicago,IL,41.8781,-87.6298,2,50860,2.65,True
+WH003,West Coast DC,Los Angeles,CA,34.0522,-118.2437,3,126820,4.67,True
+WH004,Southeast DC,Atlanta,GA,33.749,-84.388,4,104886,4.0,True
+WH005,Texas Regional,Dallas,TX,32.7767,-96.797,5,56265,4.27,True

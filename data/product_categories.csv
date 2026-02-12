@@ -1,0 +1,16 @@
+category_id,category_name,parent_category_id
+1,Electronics,
+2,Home & Garden,
+3,Automotive,
+4,Office Supplies,
+5,Health & Beauty,
+6,Computers,1.0
+7,Mobile Devices,1.0
+8,Audio Equipment,1.0
+9,Furniture,2.0
+10,Kitchen,2.0
+11,Tools,2.0
+12,Parts,3.0
+13,Accessories,3.0
+14,Paper Products,4.0
+15,Writing Supplies,4.0

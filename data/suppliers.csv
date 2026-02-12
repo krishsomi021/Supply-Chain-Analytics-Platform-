@@ -1,0 +1,26 @@
+supplier_id,supplier_code,supplier_name,contact_name,email,phone,city,state,country,payment_terms_days,is_preferred,quality_rating,is_active
+1,SUP-001,Global Parts Inc,Contact 1,contact@globalpartsinc.com,555-220-4908,Chicago,NY,USA,30,False,3.27,True
+2,SUP-002,Prime Distributors,Contact 2,contact@primedistributors.com,555-244-9369,Houston,TX,USA,30,False,3.75,True
+3,SUP-003,Quality Goods Co,Contact 3,contact@qualitygoodsco.com,555-533-4043,Houston,AZ,USA,30,False,4.15,True
+4,SUP-004,FastShip Supplies,Contact 4,contact@fastshipsupplies.com,555-601-5732,Los Angeles,CA,USA,45,False,4.11,True
+5,SUP-005,Reliable Wholesale,Contact 5,contact@reliablewholesale.com,555-734-1878,Chicago,NY,USA,60,True,4.68,True
+6,SUP-006,DirectSource Ltd,Contact 6,contact@directsourceltd.com,555-934-7290,Phoenix,AZ,USA,60,False,3.27,True
+7,SUP-007,ValueChain Partners,Contact 7,contact@valuechainpartners.com,555-603-7809,Houston,TX,USA,30,False,3.82,True
+8,SUP-008,Industrial Depot,Contact 8,contact@industrialdepot.com,555-131-4613,Chicago,NY,USA,45,False,3.17,True
+9,SUP-009,MegaSupply Corp,Contact 9,contact@megasupplycorp.com,555-395-3755,Houston,AZ,USA,60,False,3.45,True
+10,SUP-010,TradeMaster Inc,Contact 10,contact@trademasterinc.com,555-215-2871,Chicago,AZ,USA,45,False,4.1,True
+11,SUP-011,Summit Distributors,Contact 11,contact@summitdistributors.com,555-874-1681,Houston,AZ,USA,30,False,4.08,True
+12,SUP-012,Pacific Trading,Contact 12,contact@pacifictrading.com,555-204-5055,Chicago,NY,USA,60,True,4.98,True
+13,SUP-013,Atlantic Supply Chain,Contact 13,contact@atlanticsupplychain.com,555-982-2425,Houston,NY,USA,30,False,3.53,True
+14,SUP-014,Central Wholesale,Contact 14,contact@centralwholesale.com,555-855-6744,Phoenix,TX,USA,30,False,3.42,True
+15,SUP-015,Premier Components,Contact 15,contact@premiercomponents.com,555-903-4385,Los Angeles,NY,USA,45,False,4.23,True
+16,SUP-016,Alliance Goods,Contact 16,contact@alliancegoods.com,555-711-9827,Los Angeles,IL,USA,45,False,4.06,True
+17,SUP-017,NextGen Suppliers,Contact 17,contact@nextgensuppliers.com,555-373-9428,New York,CA,USA,60,False,3.58,True
+18,SUP-018,ProSource Direct,Contact 18,contact@prosourcedirect.com,555-383-3078,Los Angeles,CA,USA,30,True,4.84,True
+19,SUP-019,United Distributors,Contact 19,contact@uniteddistributors.com,555-948-5055,Houston,TX,USA,30,True,4.42,True
+20,SUP-020,EcoSupply Co,Contact 20,contact@ecosupplyco.com,555-375-7786,Houston,TX,USA,15,False,4.15,True
+21,SUP-021,TechParts Unlimited,Contact 21,contact@techpartsunlimited.com,555-887-2525,Houston,AZ,USA,45,False,4.27,True
+22,SUP-022,National Wholesale,Contact 22,contact@nationalwholesale.com,555-998-7046,Houston,TX,USA,45,False,4.39,True
+23,SUP-023,Express Components,Contact 23,contact@expresscomponents.com,555-989-2526,Houston,IL,USA,15,False,4.16,True
+24,SUP-024,BulkBuy Inc,Contact 24,contact@bulkbuyinc.com,555-507-4568,Houston,CA,USA,60,True,4.59,True
+25,SUP-025,StarLogistics,Contact 25,contact@starlogistics.com,555-948-5646,Chicago,AZ,USA,30,False,3.54,True
